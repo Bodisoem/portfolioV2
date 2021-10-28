@@ -9,7 +9,7 @@ const Technologies = () =>  (
     <br/>
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      afaefaewf
+      Programming Languages: Java, Python, JavaScript
     </SectionText>
     <List>
     <ListItem>
