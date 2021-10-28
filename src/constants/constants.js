@@ -31,7 +31,7 @@ export const projects = [
     image: '/images/4.png',
     tags: ['React', 'ChatEngine', 'Firebase'],
     source: 'https://github.com/Bodisoem/portfolioV2',
-    visit: 'https://google.com',
+    visit: 'https://duketamin.com',
     id: 3,
   },
 ];
