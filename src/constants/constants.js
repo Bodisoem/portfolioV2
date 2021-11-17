@@ -11,9 +11,9 @@ export const projects = [
   {
     title: 'E-Commerce',
     description:"Group projects where we build an E-Commerce web app where users can bid/purchase items",
-    tags: ['Flask', 'React', 'JavaScript','Bootstrap-react'],
-    source: 'https://google.com',
-    visit: '',
+    tags: ['Flask', 'React', 'JavaScript','TailwindCSS'],
+    source: 'https://github.com/kashmafia/project2-darceus',
+    visit: 'https://obscure-bastion-59408.herokuapp.com/',
     id: 1,
   },
   {
