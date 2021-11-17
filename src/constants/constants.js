@@ -2,8 +2,8 @@ export const projects = [
   {
     title: 'Twitter Clone',
     description: "Using MERNG stack to create a social media web app that allow users to post their thoughts, as well as interact with others.",
-      image: '/images/1.png',
-      tags: ['GraphQL', 'SemanticUI', 'React', 'Node'],
+    image: '/images/1.png',
+    tags: ['GraphQL', 'SemanticUI', 'React', 'Node'],
     source: 'https://github.com/Bodisoem/TwitterClone',
     visit: 'https://tweetclonene.netlify.app/',
     id: 0,
@@ -11,6 +11,7 @@ export const projects = [
   {
     title: 'E-Commerce',
     description:"Group projects where we build an E-Commerce web app where users can bid/purchase items",
+    image: '/images/2.png',
     tags: ['Flask', 'React', 'JavaScript','TailwindCSS'],
     source: 'https://github.com/kashmafia/project2-darceus',
     visit: 'https://obscure-bastion-59408.herokuapp.com/',
