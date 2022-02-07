@@ -9,7 +9,7 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'E-Commerce',
+    title: "Darceus's Headless E-Commerce",
     description:"Group projects where we build an E-Commerce web app where users can bid/purchase items",
     image: '/images/2.png',
     tags: ['Flask', 'React', 'JavaScript','TailwindCSS'],
@@ -43,4 +43,5 @@ export const TimeLineData = [
   { year: 2019, text: 'Worked as probationary officer at VAST (Vietnam Acacdemy of Science & Technology', },
   { year: 2020, text: 'Started my career as an Software Engineer Intern at CMC Global', },
   { year: 2021, text: 'Challenged myself to work in a fintech startup as a Data Engineer at GIMO JSC', },
+  { year: 2022, text: 'Worked at Visa Inc. as an Software Engineer and moved to Denver, CO', },
 ];
